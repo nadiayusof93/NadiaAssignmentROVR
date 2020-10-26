@@ -105,6 +105,9 @@
                 //set 
                 document.getElementById("executionTimeHidden").value = endTime - startTime
                 document.getElementById("statusHidden").value = response.status.toString()
+                
+                //call update
+                saveQueryData();
             } else {
                 alert("Please enter search value")
             }
