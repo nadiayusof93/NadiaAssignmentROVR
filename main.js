@@ -5,7 +5,6 @@ const uri = "mongodb://localhost:27017"
 
 //saveQueryData();
 //connect to mongoDb
-saveQueryData();
 async function saveQueryData(){
     const client = new MongoClient(uri);
     try{
