@@ -23,6 +23,11 @@ This documents explain the requirements and steps to run the application in Visu
 # 4.Mongo.db
 1. Download MongoDb from website https://www.mongodb.com/try/download/community
 2. Search for folder installation and find bin folder. Run mongo and mongod executable file
+3. On bash, run
+   createDb.js
+   createLogAdminCollection.js
+   **command : node [fileName]
+   **file is located in oldTestData folder
 
 # 5.Browserify - recognized ‘require’ in node.js
 1. Install node.js
