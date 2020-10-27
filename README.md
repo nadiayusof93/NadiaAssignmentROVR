@@ -1,6 +1,8 @@
 # NadiaAssignmentROVR
 
 This documents explain the requirements and steps to run the application in Visual Studio Code
+Currently, the solution to view Admin report have not yet been tested. (Possible bugs might be found)
+
 # 1.Requirements
 1. Bash - visual studio code
 2. Node.js
