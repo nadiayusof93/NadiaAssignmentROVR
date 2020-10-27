@@ -3,6 +3,11 @@
 This documents explain the requirements and steps to run the application in Visual Studio Code
 Currently, the solution to view Admin report have not yet been tested. (Possible bugs might be found)
 
+Purpose of this assignment is to allow user to search for repositories in GitHub by language/topic using GitHub API V3. 
+Admin then should be able to view report on the previous searches done.
+
+Link to GitHub API Documentation can be found here : https://docs.github.com/en/free-pro-team@latest/rest/reference/repos
+
 # 1.Requirements
 1. Bash - visual studio code
 2. Node.js
