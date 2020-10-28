@@ -1,6 +1,6 @@
 # NadiaAssignmentROVR
 
-This documents explain the requirements and steps to run the application in Visual Studio Code
+This document explain the requirements and steps to run the application in Visual Studio Code
 Currently, the solution to view Admin report have not yet been tested. (Possible bugs might be found)
 
 Purpose of this assignment is to allow user to search for repositories in GitHub by language/topic using GitHub API V3. 
